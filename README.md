@@ -73,3 +73,16 @@ Number of matrix columns: 6
 Number of sequences: 3
 Maximum size of sequence: 3
 ```
+
+<br />
+Once you've finished, the program will output the optimal solution and execution time with the following format:
+```git
+max_reward
+buffer_content
+buffer_coordinate_1
+buffer_coordinate_2
+…
+buffer_coordinate_n
+
+execution_time_ms
+```

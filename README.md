@@ -20,6 +20,7 @@ The rules of the Breach Protocol game include:
 <br />To run this program, you would need Python installed on your device. If you haven't installed Python, you can easily install it on
 <https://www.python.org/downloads/>
 
+<br />
 Once you've run the program, you would be given 2 input options. <br />
 The first option is to input via a .txt file. The .txt file should be within the **test** directory. The content of the aforementioned .txt file should follow the following format:
 <br />

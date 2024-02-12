@@ -1,8 +1,10 @@
 <h1 align="center">Cyberpunk 2077 Breach Protocol Brute Force Solver</h1>
 
+#### Author:
 #### Ellijah Darrellshane Suryanegara
 #### 13522097
 
+<br />
 Cyberpunk 2077 Breach Protocol Brute Force Solver is a program that solve Breach Protocol minigames in Cyberpunk 2077 by giving the most optimal solution available. This program uses a brute-force approach, meaning it finds all the possible solutions firsthand then searches for the solution which outputs the highest points. <br />
 <br />
 Components of this game include:

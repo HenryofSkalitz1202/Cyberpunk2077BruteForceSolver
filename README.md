@@ -8,7 +8,7 @@ Components of this game include:
 3. Sequence - a series of tokens (two or more) that must be matched.
 4. Buffer - the maximum number of tokens that can be arranged sequentially.
 <br />
-Rules of the game include:
+
 The rules of the Breach Protocol game include:
 1. Players move in a pattern of horizontal, vertical, horizontal, vertical (alternating) until all sequences are successfully matched or the buffer is full.
 2. Players start by selecting one token at the top row position of the matrix.

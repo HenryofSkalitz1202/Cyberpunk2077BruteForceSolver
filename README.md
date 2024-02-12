@@ -20,7 +20,7 @@ The rules of the Breach Protocol game include:
 <br />To run this program, you would need Python installed on your device. If you haven't installed Python, you can easily install it on
 <https://www.python.org/downloads/>
 
-Once you've run the program, you would be given 2 input options.__
+Once you've run the program, you would be given 2 input options. <br />
 The first option is to input via a .txt file. The .txt file should be within the **test** directory. The content of the aforementioned .txt file should follow the following format:
 <br />
 ```git
@@ -56,7 +56,7 @@ BD 1C BD 55
 30
 ```
 
-The second option is to input via Command Line Interface (CLI). With this option, the matrix and sequence are randomly generated with the constraints given by the user. The user has to input the number_of_unique_tokens, tokens, buffer_size, number_of_sequences, and max_sequence_size.
+The second option is to input via Command Line Interface (CLI). With this option, the matrix and sequence are randomly generated with the constraints given by the user. The user has to input the number_of_unique_tokens, tokens, buffer_size, number_of_sequences, and max_sequence_size. <br />
 Example:
 ```git
 Number of unique tokens: 5

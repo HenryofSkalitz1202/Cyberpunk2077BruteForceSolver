@@ -24,6 +24,7 @@ The rules of the Breach Protocol game include:
 Once you've run the program, you would be given 2 input options. <br />
 The first option is to input via a .txt file. The .txt file should be within the **test** directory. The content of the aforementioned .txt file should follow the following format:
 <br />
+
 ```git
 buffer_size
 matrix_width matrix_height

@@ -38,7 +38,6 @@ sequences_n_reward
 ```
 
 Example:
-< br/>
 ```git
 7
 6 6
@@ -55,4 +54,20 @@ BD 7A BD
 20
 BD 1C BD 55
 30
+```
+
+The second option is to input via Command Line Interface (CLI). With this option, the matrix and sequence are randomly generated with the constraints given by the user. The user has to input the number_of_unique_tokens, tokens, buffer_size, number_of_sequences, and max_sequence_size.
+Example:
+```git
+Number of unique tokens: 5
+Token 1: A1
+Token 2: B2
+Token 3: C3
+Token 4: D4
+Token 5: E5
+Buffer size: 3
+Number of matrix rows: 6
+Number of matrix columns: 6
+Number of sequences: 3
+Maximum size of sequence: 3
 ```

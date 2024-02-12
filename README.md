@@ -76,6 +76,7 @@ Maximum size of sequence: 3
 
 <br />
 Once you've finished, the program will output the optimal solution and execution time with the following format:
+
 ```git
 max_reward
 buffer_content

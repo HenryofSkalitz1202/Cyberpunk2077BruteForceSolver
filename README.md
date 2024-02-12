@@ -17,5 +17,5 @@ The rules of the Breach Protocol game include:
 5. Each sequence has a varying reward or prize weight.
 6. Sequences have a minimum length of two tokens. <br />
 
-To run this program, you would need Python installed on your device. If you haven't installed Python, you can easily install it on
+<br />To run this program, you would need Python installed on your device. If you haven't installed Python, you can easily install it on
 <https://www.python.org/downloads/>

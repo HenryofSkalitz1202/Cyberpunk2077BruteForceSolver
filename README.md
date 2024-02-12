@@ -87,3 +87,19 @@ buffer_coordinate_n
 
 execution_time_ms
 ```
+
+Example:
+
+```git
+50
+7A BD 7A BD 1C BD 55
+1, 1
+1, 4
+3, 4
+3, 5
+6, 5
+6, 4
+5, 4
+
+300 ms
+```

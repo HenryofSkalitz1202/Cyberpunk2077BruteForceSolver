@@ -103,3 +103,5 @@ Example:
 
 300 ms
 ```
+
+Finally, the program would give a prompt for the user to decide whether to save the solution or not. If the user chooses to save, the solution would be stored in a .txt file in the **test** directory. The content of the .txt file would follow the same format as the output on the CLI.

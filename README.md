@@ -22,7 +22,7 @@ The rules of the Breach Protocol game include:
 
 <br />
 Once you've run the program, you would be given 2 input options. <br />
-The first option is to input via a .txt file. The .txt file should be within the **test** directory. It is important to ONLY input an existing file name within the test directory with the following format:
+The first option is to input via a .txt file. The .txt file should be within the **test** directory. It is important to ONLY input an existing file name within the **test** directory with the following format:
 
 ```git
 (file_name).txt
